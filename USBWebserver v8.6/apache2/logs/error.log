@@ -1,5 +1,6 @@
-[Mon Jul 30 12:56:40.514623 2018] [mpm_winnt:notice] [pid 1192:tid 380] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
-[Mon Jul 30 12:56:40.530223 2018] [mpm_winnt:notice] [pid 1192:tid 380] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
-[Mon Jul 30 12:56:40.530223 2018] [core:notice] [pid 1192:tid 380] AH00094: Command line: 'C:\\Users\\Lucas\\AppData\\Local\\Temp\\Rar$EXa1012.35945/apache2/bin/httpd_usbwv8.exe -d C:/Users/Lucas/AppData/Local/Temp/Rar$EXa1012.35945/apache2'
-[Mon Jul 30 12:56:40.577023 2018] [mpm_winnt:notice] [pid 1192:tid 380] AH00418: Parent: Created child process 3120
-[Mon Jul 30 12:56:41.871825 2018] [mpm_winnt:notice] [pid 3120:tid 396] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 11 22:28:14.945524 2020] [mpm_winnt:notice] [pid 392:tid 384] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Wed Mar 11 22:28:14.945524 2020] [mpm_winnt:notice] [pid 392:tid 384] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Wed Mar 11 22:28:14.945524 2020] [core:notice] [pid 392:tid 384] AH00094: Command line: 'C:\\Users\\Aluno\\Desktop\\pam\\USBWebserver v8.6/apache2/bin/httpd_usbwv8.exe -d C:/Users/Aluno/Desktop/pam/USBWebserver v8.6/apache2'
+[Wed Mar 11 22:28:14.948524 2020] [mpm_winnt:notice] [pid 392:tid 384] AH00418: Parent: Created child process 4264
+[Wed Mar 11 22:28:15.931580 2020] [mpm_winnt:notice] [pid 4264:tid 396] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 11 22:28:18.568731 2020] [:error] [pid 4264:tid 936] [client ::1:50687] PHP Notice:  Undefined index: tabuada in C:\\Users\\Aluno\\Desktop\\pam\\USBWebserver v8.6\\root\\tabuada1.php on line 2, referer: http://localhost:8080/
