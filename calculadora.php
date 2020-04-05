@@ -25,9 +25,7 @@
         else if($op == "*")
             $resultado = $a*$b;
     
-        else if($op == "/")
-            $resultado = $a/$b;
-        else
+        else ($op == "/")
             $resultado = $a/$b;
         echo "O resultado da operação é: $resultado";
     ?>      
